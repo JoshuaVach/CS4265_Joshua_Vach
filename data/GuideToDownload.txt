@@ -2,4 +2,4 @@ first dataset: https://www.kaggle.com/datasets/beridzeg45/metacritic-pc-games-re
 second dataset: https://www.kaggle.com/datasets/volodymyrpivoshenko/video-game-sales-dataset
 third dataset: https://www.statista.com/statistics/1343397/most-expensive-games-development/
 
-these are the 3 datasets I will be using for this project for the first two links just click download but for the third I am specificily doing the XLS file so you would click on the XLS download one
+these are the 3 datasets I will be using for this project for the first two links just click download but for the third I am specifically doing the XLS file so you would click on the XLS download one
